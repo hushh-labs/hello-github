@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main()
+{
     cout << "Hello from Jatin Singhal! 👋" << endl;
     cout << "Fun fact: I can solve the following cubes:" << endl;
     cout << "1. Mirror Cube" << endl;
@@ -11,5 +12,6 @@ int main() {
     cout << "5. 5x5" << endl;
     cout << "6. Megamorphix" << endl;
     cout << "7. Megaminx" << endl;
+    cout << "8. Pyramid" << endl;
     return 0;
 }
